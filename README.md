@@ -40,4 +40,5 @@
 ### Work & Experiences 
 
 ----
+-    2023.03 ~ 2023.08 홍익대학교 IT 동아리 UMC
 - 💻 2023.06 ~ Main Server Developer of WebSite [TaskQ(태스큐)](https://github.com/TasQueue) - 태스크 관리 SNS
