@@ -42,3 +42,4 @@
 ----
 -    2023.03 ~ 2023.08 홍익대학교 IT 동아리 UMC
 - 💻 2023.06 ~ Main Server Developer of WebSite [TaskQ(태스큐)](https://github.com/TasQueue) - 태스크 관리 SNS
+-    2024.02 ~ Main Server Developer of Android Application [The Sculptor](https://github.com/The-Sculptor/Server) - 자기계발 어플리케이션
