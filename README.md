@@ -6,6 +6,9 @@
 
 <h3>Techs that I've used</h3>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000330?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
@@ -21,7 +24,7 @@
 </p>
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
