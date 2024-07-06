@@ -4,7 +4,9 @@
 
 <h1>🛠️ Tech Stack</h1>
 
-<h3>Techs that I've used</h3>
+<h2>Techs that I've used</h2>
+
+<h3>Environment</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000330?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
