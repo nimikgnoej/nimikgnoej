@@ -1,6 +1,11 @@
 
 #### "WELCOME To Kimin's GITHUB!"
 
+## Stats
+<div align="center"> 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimikgnoej&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimikgnoej&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h1>🛠️ Tech Stack</h1>
 
@@ -10,6 +15,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000330?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <p align="left">
