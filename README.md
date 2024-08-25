@@ -2,9 +2,8 @@
 #### "WELCOME To Kimin's GITHUB!"
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimikgnoej&show_icons=true&theme=dracula)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimikgnoej&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimikgnoej&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimikgnoej&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>🛠️ Tech Stack</h1>
 
