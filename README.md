@@ -61,16 +61,14 @@
 ----
 - 🎓 2020.03 ~ 2025.02 홍익대학교 컴퓨터공학과
 
-- 🧑🏻‍💻 2023.03 ~ 2024.02 홍익대학교 IT 동아리 UMC
+- 🧑🏻‍💻 2023.03 ~ 2024.08 홍익대학교 IT 동아리 UMC 백엔드 파트원 & 백엔드 파트장
   
 - 💻 2023.06 ~ Main Server Developer of WebSite [TaskQ(태스큐)](https://github.com/TasQueue) - 태스크 관리 SNS
   
 - 💻 2024.02 ~ Main Server Developer of Android Application [The Sculptor](https://github.com/The-Sculptor/Server) - 자기계발 어플리케이션
   
-- 🧑🏻‍💻 2024.02 ~ 2024.08 홍익대학교 IT 동아리 UMC 운영진 백엔드 파트장
-  
 - 🖥️ 2024.02 ~ 2024.08 신촌 대학 연합 IT 창업동아리 CEOS 19기 백엔드
 
 - 🔵 2024.08 ~ 2025.02 신촌 대학 연합 IT 창업동아리 CEOS 백엔드 운영진
 
-- 🏅 2024.05 ~   여가 스포츠 중개 플랫폼 [TIG](https://tigleisure.com) 백엔드 개발
+- 🏅 2024.05 ~ NOW  여가 스포츠 중개 플랫폼 [TIG](https://tigleisure.com) 백엔드 개발 ING
