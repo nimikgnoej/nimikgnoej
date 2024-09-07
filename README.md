@@ -71,4 +71,4 @@
 
 - 🔵 2024.08 ~ 2025.02 신촌 대학 연합 IT 창업동아리 CEOS 백엔드 운영진
 
-- 🏅 2024.05 ~ NOW  여가 스포츠 중개 플랫폼 [TIG](https://tigleisure.com) 백엔드 개발 ING
+- 🏅 2024.05 ~ NOW  여가 스포츠 중개 플랫폼 [TIG](https://tigleisure.com) 백엔드 개발
