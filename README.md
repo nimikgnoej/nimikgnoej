@@ -4,6 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimikgnoej&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimikgnoej&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/nimikgnoej"
@@ -11,6 +12,7 @@
   height="300"
 />
 </a>
+  
 
 <h1>🛠️ Tech Stack</h1>
 
