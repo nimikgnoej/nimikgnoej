@@ -9,8 +9,7 @@
   <img
     src="https://render.gitanimals.org/lines/nimikgnoej?pet-id=648095505370572744"
     width="300"
-    height="120"
-  />
+    height="120" />
 </a>
   
   
