@@ -11,8 +11,7 @@
     width="300"
     height="120" />
 </a>
-  
-  
+    
 
 <h1>🛠️ Tech Stack</h1>
 
