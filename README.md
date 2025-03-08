@@ -55,15 +55,6 @@
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnimikgnoej%2Fnimikgnoej&count_bg=%2379C83D&title_bg=%23555555&icon=leaflet.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<br>
-
-[![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimin0626)](https://solved.ac/profile/kimin0626)
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimin0626)]([https://solved.ac/soo6427/](https://solved.ac/profile/kimin0626))
-
-<br>
-
-
 </br>
 
 ### Work & Experiences 
@@ -73,12 +64,10 @@
 
 - 🧑🏻‍💻 2023.03 ~ 2024.08 홍익대학교 IT 동아리 UMC 백엔드 파트원 & 백엔드 파트장
   
-- 💻 2023.06 ~ Main Server Developer of WebSite [TaskQ(태스큐)](https://github.com/TasQueue) - 태스크 관리 SNS
-  
-- 💻 2024.02 ~ Main Server Developer of Android Application [The Sculptor](https://github.com/The-Sculptor/Server) - 자기계발 어플리케이션
-  
 - 🖥️ 2024.02 ~ 2024.08 신촌 대학 연합 IT 창업동아리 CEOS 19기 백엔드
 
 - 🔵 2024.08 ~ 2025.02 신촌 대학 연합 IT 창업동아리 CEOS 백엔드 운영진
 
 - 🏅 2024.05 ~ NOW  여가 스포츠 중개 플랫폼 [TIG](https://tigleisure.com) 백엔드 개발
+
+- 🍕 2025.02 ~ NOW  (주)넥스트그라운드 개발팀 Back-end 개발 인턴
